@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AdapterDelegates--ListView-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3784)
+
 ## AdapterDelegates-ListView
 
 Based on https://github.com/sockeqwe/AdapterDelegates." Favor composition over inheritance" for ListView
